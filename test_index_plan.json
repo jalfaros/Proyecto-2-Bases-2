@@ -1,0 +1,5 @@
+<<<<<<< Updated upstream
+{"Plan": {"Node Type": "Seq Scan", "Parallel Aware": false, "Relation Name": "personas", "Schema": "public", "Alias": "personas", "Startup Cost": 0.0, "Total Cost": 13.0, "Plan Rows": 300, "Plan Width": 238, "Actual Startup Time": 0.058, "Actual Total Time": 0.063, "Actual Rows": 4, "Actual Loops": 1, "Output": ["id", "nombre", "apellido1", "apellido2"]}, "Planning Time": 1.191, "Triggers": [], "Execution Time": 0.128}
+=======
+{"Plan": {"Node Type": "Seq Scan", "Parallel Aware": false, "Relation Name": "personas", "Schema": "public", "Alias": "personas", "Startup Cost": 0.0, "Total Cost": 13.0, "Plan Rows": 300, "Plan Width": 238, "Actual Startup Time": 0.058, "Actual Total Time": 0.062, "Actual Rows": 4, "Actual Loops": 1, "Output": ["id", "nombre", "apellido1", "apellido2"]}, "Planning Time": 1.108, "Triggers": [], "Execution Time": 0.127}
+>>>>>>> Stashed changes
